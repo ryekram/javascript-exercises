@@ -26,7 +26,6 @@ const factorial = function(num) {
   }
   return result
 };
-factorial(0)
 
 // Do not edit below this line
 module.exports = {
