@@ -4,7 +4,6 @@ const palindromes = function (str) {
     if(cleanStr === reverse) return true;
     return false;
 };
-palindromes('r3ace3car')
 
 
 // Do not edit below this line
